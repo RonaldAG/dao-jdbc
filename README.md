@@ -19,3 +19,6 @@ Através do diagrama acima, abstraimos essas entidades para classes na linguagem
 - `update`
 - `findById`
 - `findAll`
+
+## Próximos passos
+- [ ] Criar classe que executa operações CRUD para a entidade Department
